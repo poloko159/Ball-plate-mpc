@@ -38,4 +38,8 @@ void stepper_run( uint8_t motorNumber, float motor_speed)
     OCR5A = PWM_count; //set motor c step speed compare register
   }
   
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fde0ffbf156e966581cdd966662bb9d461e3685d

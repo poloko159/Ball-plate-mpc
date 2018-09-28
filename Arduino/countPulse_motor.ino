@@ -27,4 +27,8 @@ void countPulse_motor_c(){
   {
     countPulse_c-=1;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fde0ffbf156e966581cdd966662bb9d461e3685d

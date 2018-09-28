@@ -36,4 +36,8 @@ void stepper_setup()
   OCR4A = 0;  //IDE pin 6 step_a_pin
   OCR5A = 0;  //IDE pin 46 step_c_pin
   
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fde0ffbf156e966581cdd966662bb9d461e3685d
